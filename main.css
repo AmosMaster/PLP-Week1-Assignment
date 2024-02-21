@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+}
+
+/* Main Page */
+
+body{
+    background-color: cadetblue;
+}
+
+.nav{
+    background: #3b3b5c;
+    height: 40px;
+    width: 100%;
+    padding-top: 20px;
+}
+
+
+.nav a{
+    text-decoration: none;
+    color: orange;
+    margin: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.nav a:hover{
+    color: white;
+}
+
+main{
+    border: 6px solid #3b3b5c;
+    height: 80%;
+    padding-bottom: 2%;
+    width: 40%;
+    background: #CF9953;
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+    margin-left: 50%;
+    margin-top: 1%;
+    position: fixed;
+    padding-right: 0.6%;
+}
+
+main h1{
+    margin-left: 30%;
+    margin-top: 2%;
+    text-transform: uppercase;
+    color: white;
+}
+
+main p{
+    margin-left: 33%;
+    font-family: monospace;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: white;
+}
+
+main img{
+    margin-left: 0.9%;
+    margin-right: 3%;
+    padding-top: 20px;
+    padding-bottom: 2px;
+    border-radius: 100px;
+    width: 100%;
+}
+
+.skills-icon{
+    margin-left: 30%;
+    padding-top: 12px;
+}
+
+.skills-icon h2{
+    color: white;
+}
+
+.details{
+    padding-top: 30px;
+    padding-bottom: 0%;
+}
+
+.details-1{
+    padding-top: 2%;
+}
+
+.details h1{
+    color: #3b3b5c;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 15%;
+    border-radius: 90%;
+    text-align: center;
+    margin-left: 15%;
+}
+
+.details-1 h1{
+    color: #3b3b5c;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 15%;
+    border-radius: 90%;
+    text-align: center;
+    margin-left: 15%;
+}
+
+.details p{
+    width: 48%;
+    padding-top: 20px;
+    font-family: sans-serif;
+    padding-left: 16px;
+    font-size: 17px;
+}
+
+.details-1 p{
+    width: 48%;
+    padding-top: 20px;
+    font-family: sans-serif;
+    padding-left: 16px;
+    font-size: 17px;
+}
+
+.badge{
+    width: 45%;
+    margin-left: 1%;
+    
+}
+
+.badge .picture2{
+    margin-left: 19%;
+    
+}
+
+/* About Page */
+
+
+.about-1{
+    padding-bottom: 32.5%;
+    background: rgba(255, 255, 255, 0.4);
+    
+}
+
+.rank h1{
+    text-align: center;
+    padding-top: 26px;
+    color: #3b3b5c;
+}
+
+.rank .one{
+    margin-left: -1%;
+    position: absolute;
+    border-radius: 0;
+    
+}
+
+.section{
+    margin-left: 30%;
+    margin-top: 5%;
+    position: absolute
+}
+.section p{
+    color: #3b3b5c;
+}
+
+/* start Project Page */
+
+.project1 h1{
+    color: #3b3b5c;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 34px;
+}
+
+.img-pro{
+    padding-top: 3%;
+    padding-bottom: 2%;
+    background: rgba(255, 255, 255, 0.4);
+    width: 100%;
+}
+
+table{
+    margin-left: 12%;
+}
+
+table, img{
+    border-radius: 50%;
+    padding-right: 22px;
+    padding-bottom: 22px;
+    margin-left: 6%;
+}
+
+table h2{
+    color: #3b3b5c;
+    text-align: center;
+}
+table ul li{
+    color: green;
+    margin-left: 20%;
+    padding-top: 12px;
+}
